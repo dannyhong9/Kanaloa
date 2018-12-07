@@ -59,15 +59,14 @@ In figure 1, the design of the xT60 was meant to connect the servo controllers w
 ### Implementing Design:
 The design of the wire panels are implement onto the hardware boxes as shown below in figure 3. In spite of the boat being in the water, a cover was built to project the wires from being splashed from water.
 
- 
+![alt text](https://github.com/dannyhong9/Kanaloa/blob/technical-documentation/PrimerDocuments/xT60-90%20-%20Soldering%20Images/Panel%20Implementation.jpeg)
+
 Figure 3: This is an illustration of how the panels are implemented on the hardware box and how they are protected with a cover to prevent short-circuiting
 
 ### Discussion of the Design:
-There were some problems in the process of designing the panels. One of the more important problems that needs to be discussed are the weak points of the panels. When the panel was first 3D printed it was basically a flat board. With little force applied to it the panel can be easily broken. I have fixed this problem by making the separation tabs thicker (as shown in the image on the left). The thickness of the separation tabs not only help reinforced the panels but helped separate the connectors for easy connection. 
+There were some problems in the process of designing the panels. One of the more important problems that needs to be discussed are the weak points of the panels. When the panel was first 3D printed it was basically a flat board. With little force applied to it the panel can be easily broken. I have fixed this problem by making the separation tabs thicker (as shown in the image on the bottom). The thickness of the separation tabs not only help reinforced the panels but helped separate the connectors for easy connection. 
 
-
-
-
+![alt text](https://github.com/dannyhong9/Kanaloa/blob/technical-documentation/PrimerDocuments/xT60-90%20-%20Soldering%20Images/Full%20Design.jpeg)
 
 ### Comments: 
 When soldering the wires, there were instances where the solder would not stick to the wire. Also, how the some of the panels were difficult to fix due to the high amount of solder in the groves (as shown in the image above). 
