@@ -22,7 +22,7 @@ holding xT60 or xT90 male/female connectors  which will be placed on the side of
 
  ![alt text](https://github.com/dannyhong9/Kanaloa/blob/technical-documentation/PrimerDocuments/xT60-90%20-%20Soldering%20Images/download.jpg)
  
-### Design Process
+### Design Process of xT60/90 Panel
 The general design process of the panels will be shown below. More explanation of each step will be further discussed later on in this paper.
 
 ```
@@ -42,6 +42,50 @@ Note: Be sure the strip the wires down enough for it to be soldered onto the pin
 
 9. When all the wires have been soldered onto the xT# pins, cut pieces of heat shrinks that will be long enough to overlay the wires so that the exposed wires can be protected from outside elements.
 ```
+
+### Steps to Soldering
+
+```
+1. Solder needs a clean surface on which to adhere.
+  * Buff the copper foil of a PC board with steel wool before soldering.
+  * Remove any oil, paint, wax, etc. with a solvent, steel wool, or fine sandpaper.
+
+2. To solder, heat the connection with the tip of the soldering iron for a few seconds, then apply the solder.
+  * Heat the connection, not the solder.
+  * Hold the soldering iron like a pen, near the base of the handle.
+  * Both parts that are being soldered have to be hot to form a good connection.
+
+3. Keep the soldering tip on the connection as the solder is applied.
+  * Solder will flow into and around well-heated connections.
+  * Use just enough solder to form a strong connection.
+  
+4. Remove the tip from the connection as soon as the solder has flowed where you want it to be. Remove the solder, then the iron.
+
+5. Don't move the connection while the solder is cooling.
+
+6. Don't overheat the connection, as this might damage the electrical component you are soldering.
+  * Transistors and some other components can be damaged by heat when soldering. A crocodile clip can be used as a heat sink to protect
+    these components.
+
+7. Soldering a connection should take just a few seconds.
+  * If it is taking longer, see the troubleshooting section below.
+
+8. Inspect the joint closely. It should look shiny.
+  * If you are soldering a wire (called the lead) onto a PC board (on the track), it should have a volcano shape. See Figure 3.
+  * If the connection looks bad, reheat it and try again.
+  
+9. Wipe the tip of the iron on a damp sponge to clean it. The tip should now be shiny.
+
+10. Unplug the soldering iron when it is not in use.
+```
+An example of bad to good soldering is shown below:
+
+![alt text](https://github.com/dannyhong9/Kanaloa/blob/master/Elec_primer-solder4.jpg)
+
+
+#### For more of a visual of how to solder on the wires onto a xT connnecter. Refer to the video below.
+https://www.youtube.com/watch?v=w0pMjZ-rFQA
+
 
 ### Work of the design:
 Below were the possible designs of the xT60 panels.
